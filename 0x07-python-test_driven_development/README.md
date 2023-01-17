@@ -1,1 +1,5 @@
-# 0x07 Tests in Python
+# Test README
+
+```diff
++ All files intact here for testing.
+```
